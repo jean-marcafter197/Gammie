@@ -101,7 +101,7 @@ This is common for new or unsigned applications and does not necessarily indicat
 ### Transparency
 
 - The release executable is automatically built with GitHub Actions, so it always matches the source code in this repository.
-- You can inspect the full build logs of the latest release [here](https://github.com/mokkito/Gammie/actions/runs/idk) or all of the build logs [here](https://github.com/mokkito/Gammie/actions)
+- You can inspect the full build logs of the latest release [here](https://github.com/Mokkito/Gammie/actions/runs/30944794348) or all of the build logs [here](https://github.com/mokkito/Gammie/actions)
   
 
 ### Build it yourself
