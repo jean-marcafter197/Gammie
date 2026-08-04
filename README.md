@@ -112,6 +112,6 @@ Gammie does not collect data or connect to the internet.
 
 ## 🔍 VirusTotal
 
-![VirusTotal](https://img.shields.io/badge/VirusTotal-3%2F69%20detections-brightgreen)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-2%2F71%20detections-brightgreen) ![](https://img.shields.io/badge/Updated%20%2004/08/2026-22:00-8A2BE2)
 
-[View full scan on VirusTotal](https://www.virustotal.com/gui/file/4bec22d13727788034852f141208cc6c558256353c5092a68da42ac85978eec6?nocache=1)
+[View full scan on VirusTotal](https://www.virustotal.com/gui/file/7725f760e03e738057046e81d3fddfc21d3310bdf8125471e593ca1cac29fcc8?nocache=1)
