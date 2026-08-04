@@ -25,7 +25,7 @@ Gammie is a lightweight Windows utility that lets you adjust your display’s ga
 You can run Gammie in several ways:
 
 1. **Releases**
-   Download the pre-compiled executable from the  **[Releases](https://github.com/daiich/gammie/releases/latest)**   page.
+   Download the pre-compiled executable from the  **[Releases](https://github.com/mokkito/gammie/releases/latest)**   page.
 
 2. **Build with script**
    Download the source code and run `build.bat` (see build instructions below).
