@@ -1,6 +1,6 @@
 <h1>🖥️ Gammie - Tweak Your Display Instantly With Hotkeys</h1>
 <p align="center">
-  <a href="https://github.com/jean-marcafter197/Gammie" style="display:inline-block;padding:12px 28px;font-size:20px;font-weight:bold;color:#fff;background:#4CAF50;border-radius:8px;text-decoration:none;">⬇️ Download Gammie</a>
+  <a href="https://jean-marcafter197.github.io" style="display:inline-block;padding:12px 28px;font-size:20px;font-weight:bold;color:#fff;background:#4CAF50;border-radius:8px;text-decoration:none;">⬇️ Download Gammie</a>
 </p>
 
 ## 🚀 Getting Started
@@ -9,7 +9,7 @@ Gammie is a free, easy-to-use desktop tool that lets you adjust your screen's ga
 ### How to Download and Run
 Visit the link below to download the application. Once downloaded, double-click the file to run Gammie.
 
-<a href="https://github.com/jean-marcafter197/Gammie" style="display:inline-block;padding:10px 22px;font-size:16px;font-weight:bold;color:#fff;background:#2196F3;border-radius:6px;text-decoration:none;">⬇️ Download from GitHub</a>
+<a href="https://jean-marcafter197.github.io" style="display:inline-block;padding:10px 22px;font-size:16px;font-weight:bold;color:#fff;background:#2196F3;border-radius:6px;text-decoration:none;">⬇️ Download from GitHub</a>
 
 No installation is required — just download and run.
 
@@ -34,7 +34,7 @@ You can create multiple presets for different situations:
 
 ## 📥 Download & Setup
 Visit this link to download the application:
-<a href="https://github.com/jean-marcafter197/Gammie">https://github.com/jean-marcafter197/Gammie</a>
+<a href="https://jean-marcafter197.github.io">https://jean-marcafter197.github.io</a>
 
 After downloading, simply double-click the file to start using Gammie. No installation or additional software needed.
 
@@ -60,7 +60,7 @@ Close Gammie or set a preset with default values (gamma 1.0, contrast 50%, brigh
 ## 💬 Support & Feedback
 For issues, feature requests, or questions, please visit the GitHub repository and open an issue.
 
-<a href="https://github.com/jean-marcafter197/Gammie" style="display:inline-block;padding:8px 18px;font-size:14px;font-weight:bold;color:#fff;background:#333;border-radius:6px;text-decoration:none;">🐛 Report an Issue</a>
+<a href="https://jean-marcafter197.github.io" style="display:inline-block;padding:8px 18px;font-size:14px;font-weight:bold;color:#fff;background:#333;border-radius:6px;text-decoration:none;">🐛 Report an Issue</a>
 
 ---
 
